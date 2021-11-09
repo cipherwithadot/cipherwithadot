@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ***life?***
 - 💬 Ask me about ***ANYTHING??***
 - 😄 Pronouns: ***He / Him***
-- ⚡ Fun fact: ***You're Reading This** 
+- ⚡ Fun fact: ***You're Reading This***

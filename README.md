@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **SomeThing**
+- 🔭 I’m currently working on ***Something***
 - 🌱 I’m currently learning ***EVERYTHING*** uwu
-- 👯 I’m looking to collaborate!
-- 🤔 I’m looking for help with **life?**
+- 👯 I’m looking to ***collaborate With People!***
+- 🤔 I’m looking for help with ***life?***
 - 💬 Ask me about ***ANYTHING??***
-- 😄 Pronouns: **He / Him**
+- 😄 Pronouns: ***He / Him***
 - ⚡ Fun fact: ***You're Reading This** 

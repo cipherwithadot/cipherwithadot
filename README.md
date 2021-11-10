@@ -55,3 +55,5 @@
  <img src="https://badges.pufler.dev/commits/monthly/pndaboi" />
 
 </p>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

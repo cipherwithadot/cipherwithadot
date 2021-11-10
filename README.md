@@ -52,8 +52,6 @@
  <img src="https://badges.pufler.dev/visits/pndaboi/pndaboi"/> 
  <img src="https://badges.pufler.dev/years/pndaboi"/>
  <img src="https://badges.pufler.dev/repos/pndaboi"/>
- <img src="https://badges.pufler.dev/commits/monthly/pndaboi" />
-
+ <img src="https://badges.pufler.dev/commits/monthly/pndaboi"/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </p>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

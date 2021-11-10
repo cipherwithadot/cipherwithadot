@@ -58,12 +58,12 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
-2. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
-3. ❗️ Opened issue [#5](https://github.com/dropout1337/Discord-Token-Creator/issues/5) in [dropout1337/Discord-Token-Creator](https://github.com/dropout1337/Discord-Token-Creator)
-4. ❗️ Opened issue [#4](https://github.com/dropout1337/This-Repo-Has-null-Stars/issues/4) in [dropout1337/This-Repo-Has-null-Stars](https://github.com/dropout1337/This-Repo-Has-null-Stars)
-5. ❗️ Closed issue [#1](https://github.com/PndaBoi/Venom/issues/1) in [PndaBoi/Venom](https://github.com/PndaBoi/Venom)
-6. ❗️ Opened issue [#1](https://github.com/PndaBoi/Venom/issues/1) in [PndaBoi/Venom](https://github.com/PndaBoi/Venom)
+1. 🎉 Merged PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
+2. 💪 Opened PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
+3. ❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
+4. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
+5. ❗️ Opened issue [#5](https://github.com/dropout1337/Discord-Token-Creator/issues/5) in [dropout1337/Discord-Token-Creator](https://github.com/dropout1337/Discord-Token-Creator)
+6. ❗️ Opened issue [#4](https://github.com/dropout1337/This-Repo-Has-null-Stars/issues/4) in [dropout1337/This-Repo-Has-null-Stars](https://github.com/dropout1337/This-Repo-Has-null-Stars)
 <!--END_SECTION:activity-->
 
 ---

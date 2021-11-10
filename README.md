@@ -4,15 +4,15 @@
   </a>
 </h1>
 
-<h2 align="center">
-- 🔭 I’m currently working on ***Something***
-- 🌱 I’m currently learning ***EVERYTHING*** uwu
-- 👯 I’m looking to ***Collaborate With People!***
-- 🤔 I’m looking for help with ***life?***
-- 💬 Ask me about ***ANYTHING??***
-- 😄 Pronouns: ***He / Him***
-- ⚡ Fun fact: ***You're Reading This***
-</h2>
+<h3 align="center">
+- 🔭 I’m currently working on Venom And My ReadMe! <br>
+- 🌱 I’m currently learning EVERYTHING?<br>
+- 👯 I’m looking to Collaborate With People!<br>
+- 🤔 I’m looking for help with life?<br>
+- 💬 Ask me about ANYTHING??<br>
+- 😄 Pronouns: He / Him<br>
+- ⚡ Fun fact: You're Reading This <br>
+</h3>
 <h2 align="center">⚡ My Stats! ⚡</h2>
 <br>
 <p align=center>

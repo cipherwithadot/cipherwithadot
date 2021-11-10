@@ -47,7 +47,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/PndaBoi/Venom" title="Venom"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=venom&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/PndaBoi/pndaboi.github.io" title="Pndaboi.is-a.dev"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=pndaboi.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+</div>https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
@@ -58,7 +58,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snek"></center>
 </p>
 
 ### :zap: Recent Activity

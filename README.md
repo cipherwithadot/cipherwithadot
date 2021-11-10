@@ -1,12 +1,10 @@
-<hr>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+PndaBoi;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-### Well Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h2 align="center">
 - 🔭 I’m currently working on ***Something***
 - 🌱 I’m currently learning ***EVERYTHING*** uwu
 - 👯 I’m looking to ***Collaborate With People!***
@@ -14,7 +12,7 @@
 - 💬 Ask me about ***ANYTHING??***
 - 😄 Pronouns: ***He / Him***
 - ⚡ Fun fact: ***You're Reading This***
-
+</h2>
 <h2 align="center">⚡ My Stats! ⚡</h2>
 <br>
 <p align=center>

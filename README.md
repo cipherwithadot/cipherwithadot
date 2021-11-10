@@ -80,6 +80,11 @@
 5. ❗️ Opened issue [#5](https://github.com/dropout1337/Discord-Token-Creator/issues/5) in [dropout1337/Discord-Token-Creator](https://github.com/dropout1337/Discord-Token-Creator)
 6. ❗️ Opened issue [#4](https://github.com/dropout1337/This-Repo-Has-null-Stars/issues/4) in [dropout1337/This-Repo-Has-null-Stars](https://github.com/dropout1337/This-Repo-Has-null-Stars)
 <!--END_SECTION:activity-->
+---
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)
+<br/>
 
 ---
 

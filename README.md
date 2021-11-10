@@ -85,5 +85,5 @@
 
 <p align="center">
 <img src="./download.png">
-![image](https://user-images.githubusercontent.com/88819188/141181340-9cd81a75-be2f-4950-b1ac-378a545f3522.png)
+![image] (https://user-images.githubusercontent.com/88819188/141181340-9cd81a75-be2f-4950-b1ac-378a545f3522.png)
 </p>

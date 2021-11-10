@@ -47,6 +47,13 @@
   <a href="https://github.com/pndaboi?tab=repositories" title="Show Repositories">🔎 Show More! 🔍</a>
 </h4>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/pndaboi/pndaboi"/> 

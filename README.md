@@ -46,8 +46,8 @@
 <h2 align="center">👨‍💻 My Repositories! 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PndaBoi/Venom" title="Venom"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=venom&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/PndaBoi/pndaboi.github.io" title="Pndaboi.is-a.dev"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=pndaboi.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase
+  <a align="left" href="https://github.com/PndaBoi/Venom" title="Venom"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=venom&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/PndaBoi/pndaboi.github.io" title="Pndaboi.is-a.dev"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=pndaboi.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase" title="Gratient-And-Fade-Module-Showcase!"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pndaboi&repo=Gratient-And-Fade-Module-Showcase&theme=react&border_color=61dafb&border_radius=10">
+</div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+PndaBoi;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Well+Hello+There!+👋;This+is+PndaBoi!;Nice+To+Meet+You!&center=true&size=30">
   </a>
 </h1>
 
@@ -11,8 +11,9 @@
 🤔 I’m looking for help with life?<br>
 💬 Ask me about ANYTHING??<br>
 😄 Pronouns: He / Him<br>
-⚡ Fun fact: You're Reading This <br>
+⚡ Fun fact: You're Reading This!! <br>
 </h3>
+<br>
 <h2 align="center">⚡ My Stats! ⚡</h2>
 <br>
 <p align=center>
@@ -68,10 +69,5 @@
 ---
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/pndaboi/pndaboi"/> 
- <img src="https://badges.pufler.dev/years/pndaboi"/>
- <img src="https://badges.pufler.dev/repos/pndaboi"/>
- <img src="https://badges.pufler.dev/commits/monthly/pndaboi"/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="./download.png">
 </p>

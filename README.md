@@ -47,6 +47,10 @@
   <a href="https://github.com/pndaboi?tab=repositories" title="Show Repositories">🔎 Show More! 🔍</a>
 </h4>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->

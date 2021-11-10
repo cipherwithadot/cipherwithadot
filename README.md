@@ -5,13 +5,13 @@
 </h1>
 
 <h3 align="center">
-- 🔭 I’m currently working on <a href="https://github.com/PndaBoi/venom">Venom</a> And <a href="https://github.com/PndaBoi/pndaboi">My ReadMe! </a> <br>
-- 🌱 I’m currently learning EVERYTHING?<br>
-- 👯 I’m looking to Collaborate With People!<br>
-- 🤔 I’m looking for help with life?<br>
-- 💬 Ask me about ANYTHING??<br>
-- 😄 Pronouns: He / Him<br>
-- ⚡ Fun fact: You're Reading This <br>
+🔭 I’m currently working on <a href="https://github.com/PndaBoi/venom">Venom</a> And <a href="https://github.com/PndaBoi/pndaboi">My Readme! </a> <br>
+🌱 I’m currently learning EVERYTHING?<br>
+👯 I’m looking to Collaborate With People!<br>
+🤔 I’m looking for help with life?<br>
+💬 Ask me about ANYTHING??<br>
+😄 Pronouns: He / Him<br>
+⚡ Fun fact: You're Reading This <br>
 </h3>
 <h2 align="center">⚡ My Stats! ⚡</h2>
 <br>

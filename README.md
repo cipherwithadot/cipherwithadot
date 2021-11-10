@@ -13,7 +13,13 @@
 😄 Pronouns: He / Him<br>
 ⚡ Fun fact: You're Reading This!! <br>
 </h3>
-<br>
+<hr>
+<p align="center"><br>
+  <a href="">
+    <img src="https://lanyard-profile-readme.vercel.app/api/705412422055362601"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/889064703354081362"/>
+     </a>
+</p>
 <h2 align="center">⚡ My Stats! ⚡</h2>
 <br>
 <p align=center>

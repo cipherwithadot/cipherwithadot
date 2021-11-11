@@ -14,9 +14,12 @@
 ⚡ Fun fact: You're Reading This!! <br>
 </h3>
 <hr>
+<h2 align="center">
+<a href="dsc.bio/idea"> My Discord! </a>
+</h2>
+
 <p align="center"><br>
   <a href="https://dsc.bio/idea">
-    <h2 align="center" href="dsc.bio/idea"> My Profile! </h2>
     <img src="https://lanyard-profile-readme.vercel.app/api/705412422055362601"/>
     <img src="https://lanyard-profile-readme.vercel.app/api/889064703354081362"/>
      </a>

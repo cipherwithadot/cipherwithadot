@@ -81,6 +81,10 @@
 6. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
 <!--END_SECTION:activity-->
 ---
+### My Spotify! 🎧
+
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:ubhwkm1823nkh2r3vdgztb3xh&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)

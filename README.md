@@ -73,12 +73,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-2. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+1. ❗️ Opened issue [#1](https://github.com/billythegoat356/Hash/issues/1) in [billythegoat356/Hash](https://github.com/billythegoat356/Hash)
+2. ❗️ Closed issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 3. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 4. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-5. ❗️ Opened issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-6. 🎉 Merged PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
+5. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+6. ❗️ Opened issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 <!--END_SECTION:activity-->
   
 <h2 align="center">Now Playing 🎧

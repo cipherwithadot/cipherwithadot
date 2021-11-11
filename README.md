@@ -85,9 +85,6 @@
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)
 <br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/705412422055362601)
-
 ---
 
 <p align="center">

@@ -70,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snek"></center>
 </p>
 
-<h2 align="center"> :zap: Recent Activity
+<h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 1.🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
@@ -80,8 +80,6 @@
 5.❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
 6.❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
 <!--END_SECTION:activity-->
-
-</h2>
   
 <h2 align="center">Now Playing 🎧
 <br>

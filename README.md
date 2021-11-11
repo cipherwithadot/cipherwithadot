@@ -92,7 +92,6 @@
   
 </h2>
 <br/>
----
 
 <p align="center">
 <img src="./download.png">

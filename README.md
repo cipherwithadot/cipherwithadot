@@ -73,18 +73,18 @@
 <h2 align="center"> :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-2. ❗️ Opened issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-3. 🎉 Merged PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
-4. 💪 Opened PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
-5. ❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
-6. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
+1.🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+2.❗️ Opened issue [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+3.🎉 Merged PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
+4.💪 Opened PR [#1](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase/pull/1) in [PndaBoi/Gratient-And-Fade-Module-Showcase](https://github.com/PndaBoi/Gratient-And-Fade-Module-Showcase)
+5.❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
+6.❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
 <!--END_SECTION:activity-->
 
 </h2>
   
 <h2 align="center">Now Playing 🎧
-
+<br>
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)
   
 </h2>

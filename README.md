@@ -83,9 +83,11 @@
 
 </h2>
   
-<h2 align="center"> Now Playing 🎧 </h2>
+<h2 align="center">Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)
+  
+</h2>
 <br/>
 ---
 

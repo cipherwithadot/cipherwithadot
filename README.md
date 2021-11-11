@@ -70,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snek"></center>
 </p>
 
-### :zap: Recent Activity
+<h2 align="center"> :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
@@ -81,7 +81,9 @@
 6. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
 <!--END_SECTION:activity-->
 
-### Now Playing 🎧
+</h2>
+  
+<h2 align="center"> Now Playing 🎧 </h2>
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ubhwkm1823nkh2r3vdgztb3xh)
 <br/>

@@ -80,10 +80,10 @@
 5. ❗️ Opened issue [#1](https://github.com/I2rys/sgrabberb/issues/1) in [I2rys/sgrabberb](https://github.com/I2rys/sgrabberb)
 6. ❗️ Opened issue [#1](https://github.com/Ackeyy/Venom/issues/1) in [Ackeyy/Venom](https://github.com/Ackeyy/Venom)
 <!--END_SECTION:activity-->
----
-### My Spotify! 🎧
 
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:ubhwkm1823nkh2r3vdgztb3xh&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+My Spotify! 🎧
+
+<img src="https://open.spotify.com/follow/1/?uri=spotify:user:ubhwkm1823nkh2r3vdgztb3xh&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></img>
 
 ### Now Playing 🎧
 

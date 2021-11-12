@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-🔭 I’m currently working on <a href="https://github.com/PndaBoi/venom">Venom</a> And <a href="https://github.com/PndaBoi/pndaboi">My Readme! </a> <br>
+🔭 I’m currently working on <a href="https://github.com/PndaBoi/venom">Venom</a> And <a href="https://github.com/Carnage-Of-Discord">Carnage.</a> <br>
 🌱 I’m currently learning <important> EVERYTHING? </important><br>
 👯 I’m looking to Collaborate With People!<br>
 🤔 I’m looking for help with life?<br>

@@ -15,7 +15,7 @@
 </h3>
 <hr>
 <h2 align="center">
-<a href="dsc.bio/idea"> My Discord! </a>
+<a href="https://dsc.bio/idea"> My Discord! </a>
 </h2>
 
 <p align="center"><br>

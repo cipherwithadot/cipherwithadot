@@ -73,6 +73,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snek"></center>
 </p>
+<br>
+<h1 align="center">Github Corner</h1>
+
+<img src="https://github.com/pndaboi/pndaboi/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
+
+<h2 align="center">Now Playing 🎧
+<br>
+<br>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&redirect=true)
+  
+</h2>
+<br/>
 
 <h2 align="center">:zap: Recent Activity</h2>
 
@@ -84,22 +98,9 @@
 5. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 6. 🗣 Commented on [#27](https://github.com/cnrad/lanyard-profile-readme/issues/27) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 <!--END_SECTION:activity-->
-  
-<h2 align="center">Now Playing 🎧
-<br>
-<br>
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&redirect=true)
-  
-</h2>
-<br/>
 
 <p align="center">
 <img src="./download.png">
 <img src="https://user-images.githubusercontent.com/88819188/141181340-9cd81a75-be2f-4950-b1ac-378a545f3522.png">
 <br>
 </p>
-
-<h1 align="center">Github Corner</h1>
-
-<img src="https://github.com/pndaboi/pndaboi/blob/main/github-metrics.svg" alt="Metrics" width="100%">

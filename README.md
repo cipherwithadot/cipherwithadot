@@ -87,7 +87,8 @@
   
 <h2 align="center">Now Playing 🎧
 <br>
-  
+<br>
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ubhwkm1823nkh2r3vdgztb3xh&redirect=true)
   
 </h2>

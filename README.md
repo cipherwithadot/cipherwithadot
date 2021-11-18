@@ -91,12 +91,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
-2. 🗣 Commented on [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
-3. 🗣 Commented on [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)
-4. 🗣 Commented on [#14](https://github.com/feross/TheAnnoyingSite.com/issues/14) in [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com)
-5. ❗️ Opened issue [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
-6. ❗️ Opened issue [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)
+1. ❗️ Opened issue [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
+2. 💪 Opened PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
+3. 🗣 Commented on [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
+4. 🗣 Commented on [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)
+5. 🗣 Commented on [#14](https://github.com/feross/TheAnnoyingSite.com/issues/14) in [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com)
+6. ❗️ Opened issue [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

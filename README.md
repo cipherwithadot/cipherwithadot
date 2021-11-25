@@ -91,9 +91,9 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
-2. ❗️ Opened issue [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
-3. 💪 Opened PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
+1. ❗️ Opened issue [#1](https://github.com/Social404/Social_Synapse/issues/1) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
+2. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
+3. ❗️ Opened issue [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
 4. 🗣 Commented on [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
 5. 🗣 Commented on [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)
 6. 🗣 Commented on [#14](https://github.com/feross/TheAnnoyingSite.com/issues/14) in [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com)

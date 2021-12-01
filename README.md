@@ -92,8 +92,8 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/Krutonium/OwO/pull/143) in [Krutonium/OwO](https://github.com/Krutonium/OwO)
-2. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
+1. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
+2. 💪 Opened PR [#143](https://github.com/Krutonium/OwO/pull/143) in [Krutonium/OwO](https://github.com/Krutonium/OwO)
 3. ❗️ Opened issue [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
 4. 🗣 Commented on [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
 5. 🗣 Commented on [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)

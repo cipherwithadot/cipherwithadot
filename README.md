@@ -92,11 +92,11 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
-2. 💪 Opened PR [#143](https://github.com/Krutonium/OwO/pull/143) in [Krutonium/OwO](https://github.com/Krutonium/OwO)
-3. ❗️ Opened issue [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
-4. 🗣 Commented on [#1](https://github.com/MrDiamond64/discord-token-cracker/issues/1) in [MrDiamond64/discord-token-cracker](https://github.com/MrDiamond64/discord-token-cracker)
-5. 🗣 Commented on [#1](https://github.com/0x150/bruh.github.io/issues/1) in [0x150/bruh.github.io](https://github.com/0x150/bruh.github.io)
+1. ❌ Closed PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
+2. 💪 Opened PR [#5](https://github.com/jn-aman/is-my-page/pull/5) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
+3. 🗣 Commented on [#222](https://github.com/fransallen/thedev.id/issues/222) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+4. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
+5. 💪 Opened PR [#143](https://github.com/Krutonium/OwO/pull/143) in [Krutonium/OwO](https://github.com/Krutonium/OwO)
 6. 🗣 Commented on [#14](https://github.com/feross/TheAnnoyingSite.com/issues/14) in [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com)
 <!--END_SECTION:activity-->
 <hr>

@@ -92,10 +92,10 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
-2. 💪 Opened PR [#5](https://github.com/jn-aman/is-my-page/pull/5) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
-3. 🗣 Commented on [#222](https://github.com/fransallen/thedev.id/issues/222) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-4. 🗣 Commented on [#1](https://github.com/ELDRAZI-17/what/issues/1) in [ELDRAZI-17/what](https://github.com/ELDRAZI-17/what)
+1. 💪 Opened PR [#1](https://github.com/I2rys/Social_Synapse/pull/1) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+2. 💪 Opened PR [#2](https://github.com/Social404/Social_Synapse/pull/2) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
+3. ❌ Closed PR [#4](https://github.com/jn-aman/is-my-page/pull/4) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
+4. 💪 Opened PR [#5](https://github.com/jn-aman/is-my-page/pull/5) in [jn-aman/is-my-page](https://github.com/jn-aman/is-my-page)
 5. 💪 Opened PR [#143](https://github.com/Krutonium/OwO/pull/143) in [Krutonium/OwO](https://github.com/Krutonium/OwO)
 6. 🗣 Commented on [#14](https://github.com/feross/TheAnnoyingSite.com/issues/14) in [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com)
 <!--END_SECTION:activity-->

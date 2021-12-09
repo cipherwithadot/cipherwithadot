@@ -92,12 +92,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/I2rys/Social_Synapse/pull/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-2. 💪 Opened PR [#3](https://github.com/Social404/Social_Synapse/pull/3) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
-3. ❌ Closed PR [#2](https://github.com/I2rys/Social_Synapse/pull/2) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-4. ❌ Closed PR [#2](https://github.com/Social404/Social_Synapse/pull/2) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
-5. ❌ Closed PR [#1](https://github.com/I2rys/Social_Synapse/pull/1) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-6. 💪 Opened PR [#2](https://github.com/I2rys/Social_Synapse/pull/2) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+1. 💪 Opened PR [#1](https://github.com/KeitoIT/KeitoIT/pull/1) in [KeitoIT/KeitoIT](https://github.com/KeitoIT/KeitoIT)
+2. 💪 Opened PR [#3](https://github.com/I2rys/Social_Synapse/pull/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+3. 💪 Opened PR [#3](https://github.com/Social404/Social_Synapse/pull/3) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
+4. ❌ Closed PR [#2](https://github.com/I2rys/Social_Synapse/pull/2) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+5. ❌ Closed PR [#2](https://github.com/Social404/Social_Synapse/pull/2) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
+6. ❌ Closed PR [#1](https://github.com/I2rys/Social_Synapse/pull/1) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

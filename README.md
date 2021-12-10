@@ -74,13 +74,12 @@
   <img src="https://raw.githubusercontent.com/pndaboi/pndaboi/output/github-contribution-grid-snake.svg" alt="snek"></center>
 </p>
 <br>
-<summary>
-<h1 align="center">Github Corner</h1>
-
-<img src="https://github.com/pndaboi/pndaboi/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<details><summary><h1 align="center">Github Corner</h1>
 </summary>
-
-<h2 align="center">Now Playing 🎧
+<img src="https://github.com/pndaboi/pndaboi/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</details>
+<hr>
+<h2 align="center">Now Playing On Spotify 🎧
 <br>
 <br>
  

@@ -91,12 +91,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
-2. 🗣 Commented on [#3](https://github.com/I2rys/Social_Synapse/issues/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-3. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
-4. 💪 Opened PR [#1](https://github.com/KeitoIT/KeitoIT/pull/1) in [KeitoIT/KeitoIT](https://github.com/KeitoIT/KeitoIT)
-5. 💪 Opened PR [#3](https://github.com/I2rys/Social_Synapse/pull/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-6. 💪 Opened PR [#3](https://github.com/Social404/Social_Synapse/pull/3) in [Social404/Social_Synapse](https://github.com/Social404/Social_Synapse)
+1. ❗️ Opened issue [#1](https://github.com/SynapseTools/SocialSynapse/issues/1) in [SynapseTools/SocialSynapse](https://github.com/SynapseTools/SocialSynapse)
+2. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
+3. 🗣 Commented on [#3](https://github.com/I2rys/Social_Synapse/issues/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+4. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
+5. 💪 Opened PR [#1](https://github.com/KeitoIT/KeitoIT/pull/1) in [KeitoIT/KeitoIT](https://github.com/KeitoIT/KeitoIT)
+6. 💪 Opened PR [#3](https://github.com/I2rys/Social_Synapse/pull/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

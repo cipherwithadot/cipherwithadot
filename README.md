@@ -13,10 +13,11 @@
 😄 Pronouns: He / Him<br>
 ⚡ Fun fact: You're Reading This!! <br>
 </h3>
-<hr>
-<h2 align="center">
+<br>
+<h2 align="center"> Contact Me: <a href="mailto:varesh@terrorist.services">varesh@terrorist.services </a></h2>
+<h3 align="center">
 <a href="https://dsc.bio/idea"> My Discord! </a>
-</h2>
+</h3>
 
 <p align="center"><br>
   <a href="https://dsc.bio/idea">

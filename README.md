@@ -92,12 +92,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/hxr404/Discord-Console-hacks/pull/27) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
-2. ❗️ Opened issue [#1](https://github.com/SynapseTools/SocialSynapse/issues/1) in [SynapseTools/SocialSynapse](https://github.com/SynapseTools/SocialSynapse)
-3. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
-4. 🗣 Commented on [#3](https://github.com/I2rys/Social_Synapse/issues/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
-5. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
-6. 💪 Opened PR [#1](https://github.com/KeitoIT/KeitoIT/pull/1) in [KeitoIT/KeitoIT](https://github.com/KeitoIT/KeitoIT)
+1. 💪 Opened PR [#1](https://github.com/I2rys/awesome-randoms/pull/1) in [I2rys/awesome-randoms](https://github.com/I2rys/awesome-randoms)
+2. 💪 Opened PR [#27](https://github.com/hxr404/Discord-Console-hacks/pull/27) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
+3. ❗️ Opened issue [#1](https://github.com/SynapseTools/SocialSynapse/issues/1) in [SynapseTools/SocialSynapse](https://github.com/SynapseTools/SocialSynapse)
+4. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
+5. 🗣 Commented on [#3](https://github.com/I2rys/Social_Synapse/issues/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+6. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

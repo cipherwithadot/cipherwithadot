@@ -92,11 +92,11 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/I2rys/awesome-randoms/pull/1) in [I2rys/awesome-randoms](https://github.com/I2rys/awesome-randoms)
-2. 💪 Opened PR [#27](https://github.com/hxr404/Discord-Console-hacks/pull/27) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
-3. ❗️ Opened issue [#1](https://github.com/SynapseTools/SocialSynapse/issues/1) in [SynapseTools/SocialSynapse](https://github.com/SynapseTools/SocialSynapse)
-4. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
-5. 🗣 Commented on [#3](https://github.com/I2rys/Social_Synapse/issues/3) in [I2rys/Social_Synapse](https://github.com/I2rys/Social_Synapse)
+1. 🗣 Commented on [#2](https://github.com/PndaBoi/Mass-Channel-Deleter/issues/2) in [PndaBoi/Mass-Channel-Deleter](https://github.com/PndaBoi/Mass-Channel-Deleter)
+2. ❗️ Opened issue [#1](https://github.com/VladatBoss/Discord-Channel-Deleter/issues/1) in [VladatBoss/Discord-Channel-Deleter](https://github.com/VladatBoss/Discord-Channel-Deleter)
+3. 💪 Opened PR [#1](https://github.com/I2rys/awesome-randoms/pull/1) in [I2rys/awesome-randoms](https://github.com/I2rys/awesome-randoms)
+4. 💪 Opened PR [#27](https://github.com/hxr404/Discord-Console-hacks/pull/27) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
+5. ❗️ Opened issue [#1](https://github.com/SynapseTools/SocialSynapse/issues/1) in [SynapseTools/SocialSynapse](https://github.com/SynapseTools/SocialSynapse)
 6. 🗣 Commented on [#1](https://github.com/777PlayZ/Discord-Server-Cloner/issues/1) in [777PlayZ/Discord-Server-Cloner](https://github.com/777PlayZ/Discord-Server-Cloner)
 <!--END_SECTION:activity-->
 <hr>

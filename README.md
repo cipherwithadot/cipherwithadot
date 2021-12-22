@@ -11,9 +11,10 @@
 🤔 I’m looking for help with life?<br>
 💬 Ask me about ANYTHING??<br>
 😄 Pronouns: He / Him<br>
-⚡ Fun fact: You're Reading This!! <br>
+⚡ Fun fact: You're Reading This!! <br> <br> 
+  
+![](https://komarev.com/ghpvc/?username=pndaboi&color=2C2F33&style=flat-square) 
 </h3>
-<br>
 <h2 align="center"> Contact Me: <a href="mailto:varesh@terrorist.services">varesh@terrorist.services </a></h2>
 <h3 align="center">
 <a href="https://dsc.bio/idea"> My Discord! </a>

@@ -14,6 +14,7 @@
 ⚡ Fun fact: You're Reading This!! <br> <br> 
   
 ![](https://gpvc.arturio.dev/pndaboi) 
+![](https://komarev.com/ghpvc/?username=pndaboi&color=2C2F33&style=flat-square) 
 </h3>
 <h2 align="center"> Contact Me: <a href="mailto:varesh@terrorist.services">varesh@terrorist.services </a></h2>
 <h3 align="center">

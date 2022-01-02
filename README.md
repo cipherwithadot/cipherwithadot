@@ -12,9 +12,10 @@
 💬 Ask me about ANYTHING??<br>
 😄 Pronouns: He / Him<br>
 ⚡ Fun fact: You're Reading This!! <br> <br> 
-  
+
+[![wakatime](https://wakatime.com/badge/user/281c5811-cc1c-46e7-a7c2-d253c729face.svg)](https://wakatime.com/@281c5811-cc1c-46e7-a7c2-d253c729face)
 ![](https://gpvc.arturio.dev/pndaboi) 
-![](https://komarev.com/ghpvc/?username=pndaboi&color=2C2F33&style=flat-square) 
+<!--![](https://komarev.com/ghpvc/?username=pndaboi&color=2C2F33&style=flat-square)-->
 </h3>
 <h2 align="center"> Contact Me: <a href="mailto:varesh@terrorist.services">varesh@terrorist.services </a></h2>
 <h3 align="center">

@@ -96,11 +96,11 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
-2. 🗣 Commented on [#29](https://github.com/hxr404/Discord-Console-hacks/issues/29) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
+2. 🗣 Commented on [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
 3. 🗣 Commented on [#29](https://github.com/hxr404/Discord-Console-hacks/issues/29) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
-4. ❗️ Opened issue [#1](https://github.com/SealedSaucer/This-Repo-Has-3-Stars/issues/1) in [SealedSaucer/This-Repo-Has-3-Stars](https://github.com/SealedSaucer/This-Repo-Has-3-Stars)
-5. ❗️ Opened issue [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
-6. 💪 Opened PR [#2](https://github.com/russianheavy1337/russianheavy1337/pull/2) in [russianheavy1337/russianheavy1337](https://github.com/russianheavy1337/russianheavy1337)
+4. 🗣 Commented on [#29](https://github.com/hxr404/Discord-Console-hacks/issues/29) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
+5. ❗️ Opened issue [#1](https://github.com/SealedSaucer/This-Repo-Has-3-Stars/issues/1) in [SealedSaucer/This-Repo-Has-3-Stars](https://github.com/SealedSaucer/This-Repo-Has-3-Stars)
+6. ❗️ Opened issue [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

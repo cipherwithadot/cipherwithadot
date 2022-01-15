@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/VladatBoss/Discord-Channel-Deleter/issues/1) in [VladatBoss/Discord-Channel-Deleter](https://github.com/VladatBoss/Discord-Channel-Deleter)
-2. 💪 Opened PR [#1](https://github.com/traumatism/get-discord-bots-tokens-with-google/pull/1) in [traumatism/get-discord-bots-tokens-with-google](https://github.com/traumatism/get-discord-bots-tokens-with-google)
-3. 🗣 Commented on [#2](https://github.com/PndaBoi/Mass-Channel-Deleter/issues/2) in [PndaBoi/Mass-Channel-Deleter](https://github.com/PndaBoi/Mass-Channel-Deleter)
-4. ❗️ Opened issue [#1](https://github.com/VladatBoss/Discord-Channel-Deleter/issues/1) in [VladatBoss/Discord-Channel-Deleter](https://github.com/VladatBoss/Discord-Channel-Deleter)
-5. 💪 Opened PR [#1](https://github.com/I2rys/awesome-randoms/pull/1) in [I2rys/awesome-randoms](https://github.com/I2rys/awesome-randoms)
-6. 💪 Opened PR [#27](https://github.com/hxr404/Discord-Console-hacks/pull/27) in [hxr404/Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks)
+1. 💪 Opened PR [#2](https://github.com/russianheavy1337/russianheavy1337/pull/2) in [russianheavy1337/russianheavy1337](https://github.com/russianheavy1337/russianheavy1337)
+2. 🗣 Commented on [#1](https://github.com/VladatBoss/Discord-Channel-Deleter/issues/1) in [VladatBoss/Discord-Channel-Deleter](https://github.com/VladatBoss/Discord-Channel-Deleter)
+3. 💪 Opened PR [#1](https://github.com/traumatism/get-discord-bots-tokens-with-google/pull/1) in [traumatism/get-discord-bots-tokens-with-google](https://github.com/traumatism/get-discord-bots-tokens-with-google)
+4. 🗣 Commented on [#2](https://github.com/PndaBoi/Mass-Channel-Deleter/issues/2) in [PndaBoi/Mass-Channel-Deleter](https://github.com/PndaBoi/Mass-Channel-Deleter)
+5. ❗️ Opened issue [#1](https://github.com/VladatBoss/Discord-Channel-Deleter/issues/1) in [VladatBoss/Discord-Channel-Deleter](https://github.com/VladatBoss/Discord-Channel-Deleter)
+6. 💪 Opened PR [#1](https://github.com/I2rys/awesome-randoms/pull/1) in [I2rys/awesome-randoms](https://github.com/I2rys/awesome-randoms)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

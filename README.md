@@ -95,11 +95,11 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
-2. 🗣 Commented on [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
-3. 🗣 Commented on [#76](https://github.com/Kopamed/Raven-bPLUS/issues/76) in [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS)
+1. 🗣 Commented on [#1](https://github.com/Mewzax/PirateStealer/issues/1) in [Mewzax/PirateStealer](https://github.com/Mewzax/PirateStealer)
+2. ❗️ Closed issue [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
+3. 🗣 Commented on [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
 4. 🗣 Commented on [#76](https://github.com/Kopamed/Raven-bPLUS/issues/76) in [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS)
-5. 🗣 Commented on [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
+5. 🗣 Commented on [#76](https://github.com/Kopamed/Raven-bPLUS/issues/76) in [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS)
 6. 🗣 Commented on [#12](https://github.com/I2rys/ODiscord/issues/12) in [I2rys/ODiscord](https://github.com/I2rys/ODiscord)
 <!--END_SECTION:activity-->
 <hr>

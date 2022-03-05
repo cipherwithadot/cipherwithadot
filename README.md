@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NightfallGT/website/issues/1) in [NightfallGT/website](https://github.com/NightfallGT/website)
-2. 💪 Opened PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
-3. 🗣 Commented on [#2](https://github.com/billythegoat356/Kramer/issues/2) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
-4. 🗣 Commented on [#4](https://github.com/dropout1337/This-Repo-Has-null-Stars/issues/4) in [dropout1337/This-Repo-Has-null-Stars](https://github.com/dropout1337/This-Repo-Has-null-Stars)
-5. 🗣 Commented on [#1](https://github.com/Mewzax/PirateStealer/issues/1) in [Mewzax/PirateStealer](https://github.com/Mewzax/PirateStealer)
-6. ❗️ Closed issue [#1](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io/issues/1) in [Rick-Roll-Ed/Rick-Roll-Ed.github.io](https://github.com/Rick-Roll-Ed/Rick-Roll-Ed.github.io)
+1. ❌ Closed PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+2. 🗣 Commented on [#67](https://github.com/getreflect/get-reflect/issues/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+3. 🗣 Commented on [#1](https://github.com/NightfallGT/website/issues/1) in [NightfallGT/website](https://github.com/NightfallGT/website)
+4. 💪 Opened PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+5. 🗣 Commented on [#2](https://github.com/billythegoat356/Kramer/issues/2) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
+6. 🗣 Commented on [#4](https://github.com/dropout1337/This-Repo-Has-null-Stars/issues/4) in [dropout1337/This-Repo-Has-null-Stars](https://github.com/dropout1337/This-Repo-Has-null-Stars)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

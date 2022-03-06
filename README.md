@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/billythegoat356/billythegoat356.github.io/pull/1) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
-2. ❌ Closed PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
-3. 🗣 Commented on [#67](https://github.com/getreflect/get-reflect/issues/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
-4. 🗣 Commented on [#1](https://github.com/NightfallGT/website/issues/1) in [NightfallGT/website](https://github.com/NightfallGT/website)
-5. 💪 Opened PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
-6. 🗣 Commented on [#2](https://github.com/billythegoat356/Kramer/issues/2) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
+1. 💪 Opened PR [#68](https://github.com/getreflect/get-reflect/pull/68) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+2. 💪 Opened PR [#1](https://github.com/billythegoat356/billythegoat356.github.io/pull/1) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+3. ❌ Closed PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+4. 🗣 Commented on [#67](https://github.com/getreflect/get-reflect/issues/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
+5. 🗣 Commented on [#1](https://github.com/NightfallGT/website/issues/1) in [NightfallGT/website](https://github.com/NightfallGT/website)
+6. 💪 Opened PR [#67](https://github.com/getreflect/get-reflect/pull/67) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
-2. 🗣 Commented on [#3](https://github.com/billythegoat356/pystyle/issues/3) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-3. 🗣 Commented on [#1](https://github.com/billythegoat356/Kramer/issues/1) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
-4. 🗣 Commented on [#6](https://github.com/billythegoat356/Kramer/issues/6) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
-5. 🗣 Commented on [#68](https://github.com/getreflect/get-reflect/issues/68) in [getreflect/get-reflect](https://github.com/getreflect/get-reflect)
-6. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+1. 💪 Opened PR [#1](https://github.com/I2rys/MinecraftThings/pull/1) in [I2rys/MinecraftThings](https://github.com/I2rys/MinecraftThings)
+2. ❗️ Opened issue [#1](https://github.com/Tokens404/Formatter404/issues/1) in [Tokens404/Formatter404](https://github.com/Tokens404/Formatter404)
+3. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+4. 🗣 Commented on [#3](https://github.com/billythegoat356/pystyle/issues/3) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+5. 🗣 Commented on [#1](https://github.com/billythegoat356/Kramer/issues/1) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
+6. 🗣 Commented on [#6](https://github.com/billythegoat356/Kramer/issues/6) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

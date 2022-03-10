@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Tokens404/Formatter404/issues/1) in [Tokens404/Formatter404](https://github.com/Tokens404/Formatter404)
-2. 💪 Opened PR [#1](https://github.com/I2rys/MinecraftThings/pull/1) in [I2rys/MinecraftThings](https://github.com/I2rys/MinecraftThings)
-3. ❗️ Opened issue [#1](https://github.com/Tokens404/Formatter404/issues/1) in [Tokens404/Formatter404](https://github.com/Tokens404/Formatter404)
-4. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
-5. 🗣 Commented on [#3](https://github.com/billythegoat356/pystyle/issues/3) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-6. 🗣 Commented on [#1](https://github.com/billythegoat356/Kramer/issues/1) in [billythegoat356/Kramer](https://github.com/billythegoat356/Kramer)
+1. 💪 Opened PR [#3](https://github.com/billythegoat356/billythegoat356.github.io/pull/3) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+2. ❗️ Opened issue [#1](https://github.com/suuuub/MyWebsite/issues/1) in [suuuub/MyWebsite](https://github.com/suuuub/MyWebsite)
+3. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+4. 🗣 Commented on [#1](https://github.com/I2rys/MinecraftThings/issues/1) in [I2rys/MinecraftThings](https://github.com/I2rys/MinecraftThings)
+5. 🗣 Commented on [#1](https://github.com/Tokens404/Formatter404/issues/1) in [Tokens404/Formatter404](https://github.com/Tokens404/Formatter404)
+6. 💪 Opened PR [#1](https://github.com/I2rys/MinecraftThings/pull/1) in [I2rys/MinecraftThings](https://github.com/I2rys/MinecraftThings)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">

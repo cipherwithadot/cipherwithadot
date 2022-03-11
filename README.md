@@ -95,12 +95,12 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Rdimo/pip-install-bitches/issues/2) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
-2. 💪 Opened PR [#1](https://github.com/Rdimo/pip-install-bitches/pull/1) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
-3. ❗️ Opened issue [#2](https://github.com/Mewzax/Discord-Invite-Generator/issues/2) in [Mewzax/Discord-Invite-Generator](https://github.com/Mewzax/Discord-Invite-Generator)
-4. 💪 Opened PR [#3](https://github.com/billythegoat356/billythegoat356.github.io/pull/3) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
-5. ❗️ Opened issue [#1](https://github.com/suuuub/MyWebsite/issues/1) in [suuuub/MyWebsite](https://github.com/suuuub/MyWebsite)
-6. 🗣 Commented on [#2](https://github.com/billythegoat356/billythegoat356.github.io/issues/2) in [billythegoat356/billythegoat356.github.io](https://github.com/billythegoat356/billythegoat356.github.io)
+1. 🗣 Commented on [#8](https://github.com/Rdimo/pip-install-bitches/issues/8) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
+2. 🗣 Commented on [#8](https://github.com/Rdimo/pip-install-bitches/issues/8) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
+3. 🗣 Commented on [#8](https://github.com/Rdimo/pip-install-bitches/issues/8) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
+4. 🗣 Commented on [#1](https://github.com/Rdimo/pip-install-bitches/issues/1) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
+5. 🗣 Commented on [#6](https://github.com/Rdimo/pip-install-bitches/issues/6) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
+6. 🗣 Commented on [#6](https://github.com/Rdimo/pip-install-bitches/issues/6) in [Rdimo/pip-install-bitches](https://github.com/Rdimo/pip-install-bitches)
 <!--END_SECTION:activity-->
 <hr>
 <p align="center">
